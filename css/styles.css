@@ -1,0 +1,209 @@
+span {
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+.boypic {
+  border-radius: 100%;
+  width:25%;
+}
+
+.code-pic{
+  width:25%;
+  float:left;
+  margin:0 30px 30px 0;
+}
+
+.motorbike{
+  width:25%;
+  float:right;
+  margin-left:30px;
+  margin-top: 30px;
+}
+
+.skill-row{
+  width:50%;
+  margin: 50px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #11999E;
+  margin:0 25px 0;
+  text-decoration:none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover{
+  color:#eaf6f6;
+}
+
+.i-am{
+  width:50%;
+  margin:auto auto 50px auto;
+  color:#40514E;
+  line-height:2;
+}
+
+.a2020{
+  color:#EAF6F6;
+  margin:30px 0 0 0;
+}
+
+.get-in-touch{
+  width:50%;
+  margin:auto auto 50px auto;
+  line-height:2;
+  color:#40514E;
+}
+
+hr{
+  border-style:dotted none none;
+  border-width: 10px;
+  width:100px;
+  color:#EAF6F6;
+  margin-bottom: 50px;
+}
+
+.developer{
+  font-weight:normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 130px;
+  position: relative;
+  margin-bottom:50px;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  margin-top:50px;
+  padding:20px 0 20px 0;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 150px;
+  right: 200px;
+}
+p{
+  color:#40514E;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999b);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999b);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999b);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999b);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999b);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family:'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+/*
+.about{
+  position:absolute;
+  top:40px;
+  right:250px;
+}
+
+.work{
+  position:absolute;
+  top:40px;
+  right:150px;
+}
+
+.notes{
+  position:absolute;
+  top:40px;
+  right:50px;
+}
+*/
+/* For practice.html
+
+body{
+  margin:0;
+}
+
+.blue{
+  height:100px;
+  width:100px;
+  background-color:blue;
+  position:fixed;
+  top:0;
+  left:100px;
+}
+
+.yellow{
+  height:100px;
+  width:100px;
+  background-color:yellow;
+  position:fixed;
+  top:0;
+}
+
+.red{
+  height:100px;
+  width:100px;
+  background-color:red;
+  position:fixed;
+  left:200px;
+  top:0;
+}
+
+.grey{
+  height:300px;
+  width:300px;
+  background-color:grey;
+  position:relative;
+}
+
+*/
